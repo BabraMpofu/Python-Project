@@ -1,4 +1,3 @@
-#Babra Mpofu 45670544
 # Program to compare two numbers and display the result
 
 # Input variables
