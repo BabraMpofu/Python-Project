@@ -1,4 +1,3 @@
-#Babra MPOFU 45670544
 # Multiplication table generator
 
 # Input validation using a while loop
