@@ -1,4 +1,3 @@
-#45670544 Babra Mpofu
 # Prompt the user for student number and name
 information = input("Enter your student number and name (comma delimited): ")
 
